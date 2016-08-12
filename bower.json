@@ -1,0 +1,25 @@
+{
+  "name": "bmd-1.4.2",
+  "homepage": "https://github.com/Daniel900318/bmd",
+  "description": "bootstrap material design",
+  "main": [
+    "js/bootstrap.min.js",
+    "js/bootstrap-md.min.js",
+    "css/bootstrap.min.css",
+    "css/bootstrap-md.min.css"
+  ],
+  "keywords": [
+    "bootstrap"
+  ],
+  "authors": [
+    "Daniel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
