@@ -5,7 +5,11 @@
   "main": [
     "js/bootstrap.min.js",
     "js/bootstrap-md.min.js",
+    "js/bootstrap-material-datetimepicker-customized.js",
     "css/bootstrap.min.css",
+    "css/flaticon.css",
+    "css/md-icons.css",
+    "css/bootstrap-material-datetimepicker.css",
     "css/bootstrap-md.min.css"
   ],
   "version": "1.4.2-build.4989+sha.859348c",
@@ -23,6 +27,5 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-  }
+  "dependencies": {}
 }
