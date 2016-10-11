@@ -1,0 +1,22 @@
+{
+  "name": "bmd1.4.2",
+  "version": "1.4.2",
+  "description": "this is bootstrap material design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel900318/bmd.git"
+  },
+  "keywords": [
+    "bmd"
+  ],
+  "author": "Daniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daniel900318/bmd/issues"
+  },
+  "homepage": "https://github.com/Daniel900318/bmd#readme"
+}
